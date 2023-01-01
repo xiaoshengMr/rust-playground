@@ -1,2 +1,1 @@
-# rust-playground
-rust play 
+rust to build reliable and efficient software.
