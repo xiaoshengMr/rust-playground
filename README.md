@@ -1,1 +1,1 @@
-rust to build reliable and efficient software.
+Rust to build reliable and efficient software.
